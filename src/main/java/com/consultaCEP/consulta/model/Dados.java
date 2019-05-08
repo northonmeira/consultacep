@@ -1,4 +1,4 @@
-package com.consultaCEP.consultaCEP.model;
+package com.consultaCEP.consulta.model;
 
 import lombok.*;
 

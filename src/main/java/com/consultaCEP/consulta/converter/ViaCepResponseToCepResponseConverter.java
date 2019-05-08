@@ -1,9 +1,9 @@
-package com.consultaCEP.consultaCEP.converter;
+package com.consultaCEP.consulta.converter;
 
-import com.consultaCEP.consultaCEP.model.CepResponse;
-import com.consultaCEP.consultaCEP.model.Dados;
-import com.consultaCEP.consultaCEP.model.Regiao;
-import com.consultaCEP.consultaCEP.model.ViaCepResponse;
+import com.consultaCEP.consulta.model.CepResponse;
+import com.consultaCEP.consulta.model.Dados;
+import com.consultaCEP.consulta.model.Regiao;
+import com.consultaCEP.consulta.model.ViaCepResponse;
 import org.springframework.stereotype.Component;
 
 @Component

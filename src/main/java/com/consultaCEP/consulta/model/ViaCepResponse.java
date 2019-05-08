@@ -1,14 +1,12 @@
-package com.consultaCEP.consultaCEP.model;
+package com.consultaCEP.consulta.model;
 
-import lombok.AllArgsConstructor;
-import lombok.Getter;
-import lombok.NoArgsConstructor;
-import lombok.Setter;
+import lombok.*;
 
 @Getter
 @Setter
 @AllArgsConstructor
 @NoArgsConstructor
+@Builder
 public class ViaCepResponse {
 
     private String cep;

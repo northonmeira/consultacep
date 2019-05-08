@@ -1,4 +1,4 @@
-package com.consultaCEP.consultaCEP;
+package com.consultaCEP.consulta;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

@@ -1,4 +1,4 @@
-package com.consultaCEP.consultaCEP.converter;
+package com.consultaCEP.consulta.converter;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.springframework.beans.factory.annotation.Autowired;
